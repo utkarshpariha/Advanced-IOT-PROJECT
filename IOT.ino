@@ -8,8 +8,8 @@
 // Adafruit IO
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "increc"
-#define AIO_KEY         "aio_WUvn258c6hw9A74dZvZ8hM9wfo9c" 
+#define AIO_USERNAME    ""
+#define AIO_KEY         "" 
 
 WiFiClient client;
 // Setup the MQTT client class by passing in the WiFi client and MQTT server and login details.
